@@ -1,5 +1,11 @@
 BitShares-UI
 ============
+
+''''''''''''''''
+- run: npm ci
+- run: npm run build
+
+''''''''''''''
 [中文版](README_zh.md)
 
 This is a light wallet that connects to a BitShares API provided by the *witness_node* executable.
